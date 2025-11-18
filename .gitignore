@@ -1,0 +1,12 @@
+.venv
+.venv/
+.env
+
+__pycache__/
+**/__pycache__/
+
+*.json
+
+.pytest_cache
+.pytest_cache/
+
